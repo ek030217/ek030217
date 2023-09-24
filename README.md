@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ek030217
-- 👀 I’m interested in many thingd
+- 👀 I’m interested in many things
 - 🌱 I’m currently learning some programming languages
 - 💞️ I’m looking to collaborate on developing skills
 - 📫 How to reach me by email
